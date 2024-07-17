@@ -26,3 +26,6 @@ R - restarts the room
 G - restarts the game
 
 F - fullscreen on/off
+
+---
+![thumbnail](https://github.com/user-attachments/assets/3d77c640-2ed5-4a4c-923f-a07348e4a782)
